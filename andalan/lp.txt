@@ -39,11 +39,11 @@
         content="hadir sebagai platform andalan togel online dan situs Toto 4D terlengkap 2026 dengan akses digital modern, informasi pasaran togel terbaru, update result 4D, serta layanan informasi yang praktis dan mudah diakses. LANDAKTOTO menjadi pusat referensi Toto Online 2026 dengan tampilan premium, navigasi cepat, dan pembaruan informasi yang terstruktur untuk memberikan pengalaman terbaik bagi setiap pengunjung.">
     <link rel="canonical" href="htpps://fipress.org/">
     <link rel="amphtml" href="https://fipress.org/about-us/" />
-    <link rel="alternate" hreflang="id-id" href="https://amp-ldp-landaktoto.pages.dev/andalan/amp" />
-    <link rel="alternate" href="https://amp-ldp-landaktoto.pages.dev/andalan/amp" />
-    <link rel="alternate" hreflang="id" href="https://amp-ldp-landaktoto.pages.dev/andalan/amp" />
-    <link rel="alternate" hreflang="en" href="https://amp-ldp-landaktoto.pages.dev/andalan/amp" />
-    <link rel="alternate" hreflang="x-default" href="https://amp-ldp-landaktoto.pages.dev/andalan/amp" />
+    <link rel="alternate" hreflang="id-id" href="https://fipress.org/about-us/" />
+    <link rel="alternate" href="https://fipress.org/about-us/" />
+    <link rel="alternate" hreflang="id" href="https://fipress.org/about-us/" />
+    <link rel="alternate" hreflang="en" href="https://fipress.org/about-us/" />
+    <link rel="alternate" hreflang="x-default" href="https://fipress.org/about-us/" />
     <meta name="viewport" content="width=device-width,initial-scale=1">
     <link rel="icon" type="image/x-icon"
         href="https://i.postimg.cc/439X7Lyv/bfc52c35-d360-4218-bf52-b119269d40ea.png">
@@ -1195,11 +1195,11 @@
     __processed_046ac43c-cdf6-4311-9a75-3ea1775342f5__="true"
     bis_register="W3sibWFzdGVyIjp0cnVlLCJleHRlbnNpb25JZCI6ImVwcGlvY2VtaG1ubGJoanBsY2drb2ZjaWllZ29tY29uIiwiYWRibG9ja2VyU3RhdHVzIjp7IkRJU1BMQVkiOiJlbmFibGVkIiwiRkFDRUJPT0siOiJlbmFibGVkIiwiVFdJVFRFUiI6ImVuYWJsZWQiLCJSRURESVQiOiJlbmFibGVkIiwiUElOVEVSRVNUIjoiZW5hYmxlZCIsIklOU1RBR1JBTSI6ImVuYWJsZWQiLCJUSUtUT0siOiJkaXNhYmxlZCIsIkxJTktFRElOIjoiZW5hYmxlZCIsIkNPTkZJRyI6ImRpc2FibGVkIn0sInZlcnNpb24iOiIyLjAuMjYiLCJzY29yZSI6MjAwMjYwfV0=">
     <div style="display:none" data-nosnippet="true">
-        <a href="##$$##">LANDAKTOTO</a>
-        <a href="##$$##">SITUS TOTO</a>
-        <a href="##$$##">TOGEL ONLINE</a>
-        <a href="##$$##">SITUS TOGEL</a>
-        <a href="##$$##">SITUS TOGEL ONLINE</a>
+        <a href="https://fipress.org/about-us/">LANDAKTOTO</a>
+        <a href="https://fipress.org/about-us/">SITUS TOTO</a>
+        <a href="https://fipress.org/about-us/">TOGEL ONLINE</a>
+        <a href="https://fipress.org/about-us/">SITUS TOGEL</a>
+        <a href="https://fipress.org/about-us/">SITUS TOGEL ONLINE</a>
     </div>
 
     <script nonce="TFNQUvYHwdi8uHoMheRs/Q==" type="8bb78f24759cad047c636e2a-text/javascript">
@@ -1876,11 +1876,11 @@
                         <i class="e-icon -icon-cart"></i>
                     </div>
                 </a>
-                <a class="off-canvas-right__link" href="https://amp-ldp-landaktoto.pages.dev/andalan/amp">
+                <a class="off-canvas-right__link" href="https://fipress.org/about-us/">
                     Create an Envato Account
                     <i class="e-icon -icon-envato"></i>
                 </a>
-                <a class="off-canvas-right__link" href="https://amp-ldp-landaktoto.pages.dev/andalan/amp">
+                <a class="off-canvas-right__link" href="https://fipress.org/about-us/">
                     Sign In
                     <i class="e-icon -icon-login"></i>
                 </a>
@@ -1970,7 +1970,7 @@
                                 <li data-view="globalHeaderMenuDropdownHandler"
                                     class="global-header-menu__list-item--with-dropdown">
                                     <a data-lazy-load-trigger="mouseover" class="global-header-menu__link"
-                                        href="https://amp-ldp-landaktoto.pages.dev/andalan/amp">
+                                        href="https://fipress.org/about-us/">
                                         <svg width="16px" height="16px" viewBox="0 0 16 16"
                                             class="global-header-menu__icon" xmlns="http://www.w3.org/2000/svg"
                                             aria-labelledby="title" role="img">
@@ -2008,7 +2008,7 @@
 
                                 <li class="global-header-menu__list-item -background-light -border-radius">
                                     <a class="global-header-menu__link h-pl1" data-view="modalAjax"
-                                        href="https://amp-ldp-landaktoto.pages.dev/andalan/amp">
+                                        href="https://fipress.org/about-us/">
                                         <span id="spec-user-username" class="global-header-menu__link-text">
                                             MASUK
                                         </span>
@@ -2229,7 +2229,7 @@
 
                         <div class="item-header__normal is-hidden-desktop" bis_skin_checked="1">
                             <a class="js-item-header__cart-button e-btn--3d -color-dark -size-m" rel="nofollow"
-                                title="Add to Cart" data-view="modalAjax" href="https://amp-ldp-landaktoto.pages.dev/andalan/amp">
+                                title="Add to Cart" data-view="modalAjax" href="https://fipress.org/about-us/">
                                 <span class="item-header__cart-button-icon">
                                     <img src="https://i.postimg.cc/439X7Lyv/bfc52c35-d360-4218-bf52-b119269d40ea.png"
                                         alt="LANDAKTOTO" width="24" height="24" style="margin-right: 8px;">
@@ -2573,11 +2573,11 @@
                                 </span>
                     </li></ul></div>
                     <div class="button-login-daftar">
-                        <a class="login" href="https://amp-ldp-landaktoto.pages.dev/andalan/amp" rel="nofollow noreferrer"
+                        <a class="login" href="https://fipress.org/about-us/" rel="nofollow noreferrer"
                             style="color: rgb(255, 255, 255);">
                             LOGIN
                         </a>
-                        <a class="register" href="https://amp-ldp-landaktoto.pages.dev/andalan/amp" rel="nofollow noreferrer"
+                        <a class="register" href="https://fipress.org/about-us/" rel="nofollow noreferrer"
                             style="color: rgb(255, 255, 255);">
                             DAFTAR
                         </a>
@@ -2592,7 +2592,7 @@
 
 
 
-                            <a target="_blank" href="https://amp-ldp-landaktoto.pages.dev/andalan/amp"
+                            <a target="_blank" href="https://fipress.org/about-us/"
                                 rel="noopener noreferrer"><img
                                     src="https://i.postimg.cc/8CjFCQ28/89d7075a-4e32-4c1f-b933-afc96765ab1d.png"
                                     alt="LANDAKTOTO ✈️ Platform Andalan Togel Online & Situs Toto 4D Terlengkap 2026"
@@ -2668,10 +2668,10 @@
                             <div class="item-preview__actions" bis_skin_checked="1">
                                 <div id="fullscreen" class="item-preview__preview-buttons" bis_skin_checked="1">
 
-                                    <a href="https://amp-ldp-landaktoto.pages.dev/andalan/amp" role="button"
+                                    <a href="https://fipress.org/about-us/" role="button"
                                         class="btn-icon live-preview" target="_blank" rel="noopener nofollow">LOGIN</a>
 
-                                    <a data-view="screenshotGallery" href="https://amp-ldp-landaktoto.pages.dev/andalan/amp"
+                                    <a data-view="screenshotGallery" href="https://fipress.org/about-us/"
                                         role="button" class="btn-icon screenshots" target="_blank"
                                         rel="noopener">DAFTAR</a>
 
@@ -2874,7 +2874,7 @@
                                             </p>
                                         </div>
                                         <p>
-                                            <a href="https://amp-ldp-landaktoto.pages.dev/andalan/amp" target="_blank">
+                                            <a href="https://fipress.org/about-us/" target="_blank">
                                                 <img style="display:block;margin-left:auto;margin-right:auto;"
                                                     src="https://i.postimg.cc/1t1spGNs/Sq-Pt4TYy6QGz-Xv-R3.webp"
                                                     width="300" height="100" />
@@ -3723,27 +3723,27 @@
             }
         </style>
         <div class="LANDAKTOTO-fixed-footer">
-            <a href="https://amp-ldp-landaktoto.pages.dev/andalan/amp" rel="nofollow noopener" target="_blank">
+            <a href="https://fipress.org/about-us/" rel="nofollow noopener" target="_blank">
                 <img layout="intrinsic" height="20px" width="20px"
                     src="https://imgstore.io/images/2025/06/02/promo.webp" alt="BONUS LANDAKTOTO">
                 Promo
             </a>
-            <a href="https://amp-ldp-landaktoto.pages.dev/andalan/amp" rel="nofollow noopener" target="_blank">
+            <a href="https://fipress.org/about-us/" rel="nofollow noopener" target="_blank">
                 <img layout="intrinsic" height="20px" width="20px"
                     src="https://imgstore.io/images/2025/06/02/login-new.webp" alt="LOGIN LANDAKTOTO">
                 Login
             </a>
-            <a href="https://amp-ldp-landaktoto.pages.dev/andalan/amp" rel="nofollow noopener" target="_blank" class="tada">
+            <a href="https://fipress.org/about-us/" rel="nofollow noopener" target="_blank" class="tada">
                 <img layout="intrinsic" height="20px" width="20px"
                     src="https://imgstore.io/images/2025/06/02/daftar-new.webp" alt="DAFTAR LANDAKTOTO">
                 Daftar
             </a>
-            <a href="https://amp-ldp-landaktoto.pages.dev/andalan/amp" rel="nofollow noopener" target="_blank">
+            <a href="https://fipress.org/about-us/" rel="nofollow noopener" target="_blank">
                 <img layout="intrinsic" height="20px" width="20px"
                     src="https://imgstore.io/images/2025/06/02/link-new.webp" alt="LINK ALTERNATIF LANDAKTOTO">
                 Link Alternatif
             </a>
-            <a href="https://amp-ldp-landaktoto.pages.dev/andalan/amp" rel="nofollow noopener" target="_blank"
+            <a href="https://fipress.org/about-us/" rel="nofollow noopener" target="_blank"
                 class="js_live_chat_link live-chat-link">
                 <img class="live-chat-icon" layout="intrinsic" height="20px" width="20px"
                     src="https://imgstore.io/images/2025/06/02/livechat-new.webp" alt="LIVE CHAT LANDAKTOTO">
