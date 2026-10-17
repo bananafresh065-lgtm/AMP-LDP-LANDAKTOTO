@@ -37,8 +37,8 @@
     <title>LANDAKTOTO ✈️ Platform Andalan Togel Online & Situs Toto 4D Terlengkap 2026</title>
     <meta name="description"
         content="hadir sebagai platform andalan togel online dan situs Toto 4D terlengkap 2026 dengan akses digital modern, informasi pasaran togel terbaru, update result 4D, serta layanan informasi yang praktis dan mudah diakses. LANDAKTOTO menjadi pusat referensi Toto Online 2026 dengan tampilan premium, navigasi cepat, dan pembaruan informasi yang terstruktur untuk memberikan pengalaman terbaik bagi setiap pengunjung.">
-    <link rel="canonical" href="##SS##">
-    <link rel="amphtml" href="https://amp-ldp-landaktoto.pages.dev/andalan/amp" />
+    <link rel="canonical" href="htpps://fipress.org/">
+    <link rel="amphtml" href="https://fipress.org/about-us/" />
     <link rel="alternate" hreflang="id-id" href="https://amp-ldp-landaktoto.pages.dev/andalan/amp" />
     <link rel="alternate" href="https://amp-ldp-landaktoto.pages.dev/andalan/amp" />
     <link rel="alternate" hreflang="id" href="https://amp-ldp-landaktoto.pages.dev/andalan/amp" />
@@ -80,10 +80,10 @@
   },
   "sku": "LANDAKTOTO",
   "mpn": "77GCR-001",
-  "url": "##SS##",
+  "url": "htpps://fipress.org/",
   "offers": {
     "@type": "Offer",
-    "url": "##SS##",
+    "url": "htpps://fipress.org/",
     "priceCurrency": "IDR",
     "price": "0.00",
     "priceValidUntil": "2025-10-21",
@@ -137,31 +137,31 @@
       "@type": "ListItem",
       "position": 1,
       "name": "LANDAKTOTO",
-      "item": "##SS##"
+      "item": "htpps://fipress.org/"
     },
     {
       "@type": "ListItem",
       "position": 2,
       "name": "LANDAKTOTO",
-      "item": "##SS##"
+      "item": "htpps://fipress.org/"
     },
     {
       "@type": "ListItem",
       "position": 3,
       "name": "TOGEL ONLINE",
-      "item": "##SS##"
+      "item": "htpps://fipress.org/"
     },
     {
       "@type": "ListItem",
       "position": 4,
       "name": "SITUS TOTO",
-      "item": "##SS##"
+      "item": "htpps://fipress.org/"
     },
     {
       "@type": "ListItem",
       "position": 5,
       "name": "TOTO 4D",
-      "item": "##SS##"
+      "item": "htpps://fipress.org/"
     }
   ]
 }
@@ -172,7 +172,7 @@
   "@context": "https://schema.org",
   "@type": "Organization",
   "name": "LANDAKTOTO",
-  "url": "##SS##",
+  "url": "htpps://fipress.org/",
   "logo": "https://i.postimg.cc/1t1spGNs/Sq-Pt4TYy6QGz-Xv-R3.webp",
   "sameAs": [
     "https://www.facebook.com/LANDAKTOTO",
@@ -204,7 +204,7 @@
         content="https://i.postimg.cc/8CjFCQ28/89d7075a-4e32-4c1f-b933-afc96765ab1d.png" />
     <meta property="og:image:alt"
         content="LANDAKTOTO ✈️ Platform Andalan Togel Online & Situs Toto 4D Terlengkap 2026" />
-    <meta property="og:url" content="##SS##">
+    <meta property="og:url" content="htpps://fipress.org/">
     <meta property="og:type" content="website">
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image" />
@@ -217,7 +217,7 @@
         content="LANDAKTOTO ✈️ Platform Andalan Togel Online & Situs Toto 4D Terlengkap 2026" />
     <meta property="og:title" content="LANDAKTOTO ✈️ Platform Andalan Togel Online & Situs Toto 4D Terlengkap 2026">
     <meta property="og:type" content="website">
-    <meta property="og:url" content="##SS##">
+    <meta property="og:url" content="htpps://fipress.org/">
     <meta property="og:image"
         content="https://i.postimg.cc/8CjFCQ28/89d7075a-4e32-4c1f-b933-afc96765ab1d.png" />
     <meta property="og:image:alt"
@@ -1286,7 +1286,7 @@
         <div class="page__off-canvas--left overflow" bis_skin_checked="1">
             <div class="off-canvas-left js-off-canvas-left" bis_skin_checked="1">
                 <div class="off-canvas-left__top" bis_skin_checked="1">
-                    <a href="##SS##">EnvatoMarket</a>
+                    <a href="htpps://fipress.org/">EnvatoMarket</a>
                 </div>
 
                 <div class="off-canvas-left__current-site -color-themeforest" bis_skin_checked="1">
@@ -1295,40 +1295,40 @@
                     </span>
 
                     <a class="off-canvas-left__current-site-toggle -white-arrow -color-themeforest" data-view="dropdown"
-                        data-dropdown-target=".off-canvas-left__sites" href="##SS##"></a>
+                        data-dropdown-target=".off-canvas-left__sites" href="htpps://fipress.org/"></a>
                 </div>
 
                 <div class="off-canvas-left__sites is-hidden" id="off-canvas-sites" bis_skin_checked="1">
-                    <a class="off-canvas-left__site" href="##SS##">
+                    <a class="off-canvas-left__site" href="htpps://fipress.org/">
                         <span class="off-canvas-left__site-title">
                             Code
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="##SS##">
+                    <a class="off-canvas-left__site" href="htpps://fipress.org/">
                         <span class="off-canvas-left__site-title">
                             Video
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="##SS##">
+                    <a class="off-canvas-left__site" href="htpps://fipress.org/">
                         <span class="off-canvas-left__site-title">
                             Audio
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="##SS##">
+                    <a class="off-canvas-left__site" href="htpps://fipress.org/">
                         <span class="off-canvas-left__site-title">
                             Graphics
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="##SS##">
+                    <a class="off-canvas-left__site" href="htpps://fipress.org/">
                         <span class="off-canvas-left__site-title">Photos
                         </span>
                         <i class="e-icon -icon-right-open"></i>
                     </a>
-                    <a class="off-canvas-left__site" href="##SS##">
+                    <a class="off-canvas-left__site" href="htpps://fipress.org/">
                         <span class="off-canvas-left__site-title">
                             3D Files
                         </span>
@@ -1337,7 +1337,7 @@
                 </div>
 
                 <div class="off-canvas-left__search" bis_skin_checked="1">
-                    <form id="search" action="##SS##" accept-charset="UTF-8" method="get">
+                    <form id="search" action="htpps://fipress.org/" accept-charset="UTF-8" method="get">
                         <div class="search-field -border-none" bis_skin_checked="1">
                             <div class="search-field__input" bis_skin_checked="1">
                                 <input id="term" name="term" type="search" placeholder="Search"
@@ -1354,40 +1354,40 @@
 
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
-                            data-dropdown-target="#off-canvas-all-items" href="##SS##">
+                            data-dropdown-target="#off-canvas-all-items" href="htpps://fipress.org/">
                             All Items
                         </a>
                         <ul class="is-hidden" id="off-canvas-all-items">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="##SS##">Popular
+                                <a class="off-canvas-category-link--sub" href="htpps://fipress.org/">Popular
                                     Files</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="##SS##">Featured Files</a>
+                                    href="htpps://fipress.org/">Featured Files</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="##SS##">Top New
+                                <a class="off-canvas-category-link--sub" href="htpps://fipress.org/">Top New
                                     Files</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="##SS##">Follow
+                                <a class="off-canvas-category-link--sub" href="htpps://fipress.org/">Follow
                                     Feed</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="##SS##">Top
+                                <a class="off-canvas-category-link--sub" href="htpps://fipress.org/">Top
                                     Authors</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="##SS##">Top New
+                                <a class="off-canvas-category-link--sub" href="htpps://fipress.org/">Top New
                                     Authors</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="##SS##">Public
+                                <a class="off-canvas-category-link--sub" href="htpps://fipress.org/">Public
                                     Collections</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="##SS##">View
+                                <a class="off-canvas-category-link--sub" href="htpps://fipress.org/">View
                                     All Categories</a>
                             </li>
                         </ul>
@@ -1395,458 +1395,458 @@
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
-                            data-dropdown-target="#off-canvas-wordpress" href="##SS##">
+                            data-dropdown-target="#off-canvas-wordpress" href="htpps://fipress.org/">
                             WordPress
                         </a>
                         <ul class="is-hidden" id="off-canvas-wordpress">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="##SS##">Show
+                                <a class="off-canvas-category-link--sub" href="htpps://fipress.org/">Show
                                     all
                                     WordPress</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="##SS##">Popular
+                                <a class="off-canvas-category-link--sub" href="htpps://fipress.org/">Popular
                                     Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="##SS##">Blog /
+                                <a class="off-canvas-category-link--sub" href="htpps://fipress.org/">Blog /
                                     Magazine</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="##SS##">BuddyPress</a>
+                                    href="htpps://fipress.org/">BuddyPress</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="##SS##">Corporate</a>
+                                    href="htpps://fipress.org/">Corporate</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="##SS##">Creative</a>
+                                    href="htpps://fipress.org/">Creative</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="##SS##">Directory &amp; Listings</a>
+                                    href="htpps://fipress.org/">Directory &amp; Listings</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="##SS##">eCommerce</a>
+                                    href="htpps://fipress.org/">eCommerce</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="##SS##">Education</a>
+                                    href="htpps://fipress.org/">Education</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="##SS##">Elementor</a>
+                                    href="htpps://fipress.org/">Elementor</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="##SS##">Entertainment</a>
+                                    href="htpps://fipress.org/">Entertainment</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="##SS##">Mobile</a>
+                                    href="htpps://fipress.org/">Mobile</a>
                             </li>
                             <li><a class="off-canvas-category-link--sub"
-                                    href="##SS##">Nonprofit</a>
+                                    href="htpps://fipress.org/">Nonprofit</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="##SS##">Real
+                                <a class="off-canvas-category-link--sub" href="htpps://fipress.org/">Real
                                     Estate</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="##SS##">Retail</a>
+                                    href="htpps://fipress.org/">Retail</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="##SS##">Technology</a>
+                                    href="htpps://fipress.org/">Technology</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="##SS##">Wedding</a>
+                                    href="htpps://fipress.org/">Wedding</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="##SS##">Miscellaneous</a>
+                                    href="htpps://fipress.org/">Miscellaneous</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="##SS##">WordPress Plugins</a>
+                                    href="htpps://fipress.org/">WordPress Plugins</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
-                            data-dropdown-target="#off-canvas-elementor" href="##SS##">
+                            data-dropdown-target="#off-canvas-elementor" href="htpps://fipress.org/">
                             Elementor
                         </a>
                         <ul class="is-hidden" id="off-canvas-elementor">
                             <li><a class="off-canvas-category-link--sub"
-                                    href="##SS##">Template Kits</a></li>
+                                    href="htpps://fipress.org/">Template Kits</a></li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="##SS##">Plugins</a>
+                                    href="htpps://fipress.org/">Plugins</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="##SS##">Themes</a>
+                                    href="htpps://fipress.org/">Themes</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
 
-                        <a class="off-canvas-category-link--empty" href="##SS##">
+                        <a class="off-canvas-category-link--empty" href="htpps://fipress.org/">
                             Hosting
                         </a>
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-html"
-                            href="##SS##">
+                            href="htpps://fipress.org/">
                             HTML
                         </a>
                         <ul class="is-hidden" id="off-canvas-html">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="##SS##">Show
+                                <a class="off-canvas-category-link--sub" href="htpps://fipress.org/">Show
                                     all
                                     HTML</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="##SS##">Popular
+                                <a class="off-canvas-category-link--sub" href="htpps://fipress.org/">Popular
                                     Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="##SS##">Admin
+                                <a class="off-canvas-category-link--sub" href="htpps://fipress.org/">Admin
                                     Templates</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="##SS##">Corporate</a>
+                                    href="htpps://fipress.org/">Corporate</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="##SS##">Creative</a>
+                                    href="htpps://fipress.org/">Creative</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="##SS##">Entertainment</a>
+                                    href="htpps://fipress.org/">Entertainment</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="##SS##">Mobile</a>
+                                    href="htpps://fipress.org/">Mobile</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="##SS##">Nonprofit</a>
+                                    href="htpps://fipress.org/">Nonprofit</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="##SS##">Personal</a>
+                                    href="htpps://fipress.org/">Personal</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="##SS##">Retail</a>
+                                    href="htpps://fipress.org/">Retail</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="##SS##">Specialty Pages</a>
+                                    href="htpps://fipress.org/">Specialty Pages</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="##SS##">Technology</a>
+                                    href="htpps://fipress.org/">Technology</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="##SS##">Wedding</a>
+                                    href="htpps://fipress.org/">Wedding</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="##SS##">Miscellaneous</a>
+                                    href="htpps://fipress.org/">Miscellaneous</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
-                            data-dropdown-target="#off-canvas-shopify" href="##SS##">
+                            data-dropdown-target="#off-canvas-shopify" href="htpps://fipress.org/">
                             Shopify
                         </a>
                         <ul class="is-hidden" id="off-canvas-shopify">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="##SS##">Show
+                                <a class="off-canvas-category-link--sub" href="htpps://fipress.org/">Show
                                     all
                                     Shopify</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="##SS##">Popular
+                                <a class="off-canvas-category-link--sub" href="htpps://fipress.org/">Popular
                                     Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="##SS##">Fashion</a>
+                                    href="htpps://fipress.org/">Fashion</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="##SS##">Shopping</a>
+                                    href="htpps://fipress.org/">Shopping</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="##SS##">Health
+                                <a class="off-canvas-category-link--sub" href="htpps://fipress.org/">Health
                                     &amp; Beauty</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="##SS##">Technology</a>
+                                    href="htpps://fipress.org/">Technology</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="##SS##">Entertainment</a>
+                                    href="htpps://fipress.org/">Entertainment</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="##SS##">Miscellaneous</a>
+                                    href="htpps://fipress.org/">Miscellaneous</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
 
-                        <a class="off-canvas-category-link--empty" href="##SS##">
+                        <a class="off-canvas-category-link--empty" href="htpps://fipress.org/">
                             Jamstack
                         </a>
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
-                            data-dropdown-target="#off-canvas-marketing" href="##SS##">
+                            data-dropdown-target="#off-canvas-marketing" href="htpps://fipress.org/">
                             Marketing
                         </a>
                         <ul class="is-hidden" id="off-canvas-marketing">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="##SS##">Show
+                                <a class="off-canvas-category-link--sub" href="htpps://fipress.org/">Show
                                     all
                                     Marketing</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="##SS##">Popular
+                                <a class="off-canvas-category-link--sub" href="htpps://fipress.org/">Popular
                                     Items</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="##SS##">Email
+                                <a class="off-canvas-category-link--sub" href="htpps://fipress.org/">Email
                                     Templates</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="##SS##">Landing
+                                <a class="off-canvas-category-link--sub" href="htpps://fipress.org/">Landing
                                     Pages</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="##SS##">Unbounce Landing Pages</a>
+                                    href="htpps://fipress.org/">Unbounce Landing Pages</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-cms"
-                            href="##SS##">
+                            href="htpps://fipress.org/">
                             CMS
                         </a>
                         <ul class="is-hidden" id="off-canvas-cms">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="##SS##">Show
+                                <a class="off-canvas-category-link--sub" href="htpps://fipress.org/">Show
                                     all CMS</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="##SS##">Popular
+                                <a class="off-canvas-category-link--sub" href="htpps://fipress.org/">Popular
                                     Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="##SS##">Concrete5</a>
+                                    href="htpps://fipress.org/">Concrete5</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="##SS##">Drupal</a>
+                                    href="htpps://fipress.org/">Drupal</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="##SS##">HubSpot
+                                <a class="off-canvas-category-link--sub" href="htpps://fipress.org/">HubSpot
                                     CMS Hub</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="##SS##">Joomla</a>
+                                    href="htpps://fipress.org/">Joomla</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="##SS##">MODX
+                                <a class="off-canvas-category-link--sub" href="htpps://fipress.org/">MODX
                                     Themes</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="##SS##">Moodle</a>
+                                    href="htpps://fipress.org/">Moodle</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="##SS##">Webflow</a>
+                                    href="htpps://fipress.org/">Webflow</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="##SS##">Weebly</a>
+                                    href="htpps://fipress.org/">Weebly</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="##SS##">Miscellaneous</a>
+                                    href="htpps://fipress.org/">Miscellaneous</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
-                            data-dropdown-target="#off-canvas-ecommerce" href="##SS##">
+                            data-dropdown-target="#off-canvas-ecommerce" href="htpps://fipress.org/">
                             eCommerce
                         </a>
                         <ul class="is-hidden" id="off-canvas-ecommerce">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="##SS##">Show
+                                <a class="off-canvas-category-link--sub" href="htpps://fipress.org/">Show
                                     all
                                     eCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="##SS##">Popular
+                                <a class="off-canvas-category-link--sub" href="htpps://fipress.org/">Popular
                                     Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="##SS##">WooCommerce</a>
+                                    href="htpps://fipress.org/">WooCommerce</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="##SS##">BigCommerce</a>
+                                    href="htpps://fipress.org/">BigCommerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="##SS##">Drupal
+                                <a class="off-canvas-category-link--sub" href="htpps://fipress.org/">Drupal
                                     Commerce</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="##SS##">Easy
+                                <a class="off-canvas-category-link--sub" href="htpps://fipress.org/">Easy
                                     Digital Downloads</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="##SS##">Ecwid</a>
+                                    href="htpps://fipress.org/">Ecwid</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="##SS##">Magento</a>
+                                    href="htpps://fipress.org/">Magento</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="##SS##">OpenCart</a>
+                                    href="htpps://fipress.org/">OpenCart</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="##SS##">PrestaShop</a>
+                                    href="htpps://fipress.org/">PrestaShop</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="##SS##">Shopify</a>
+                                    href="htpps://fipress.org/">Shopify</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="##SS##">Ubercart</a>
+                                    href="htpps://fipress.org/">Ubercart</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="##SS##">VirtueMart</a>
+                                    href="htpps://fipress.org/">VirtueMart</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="##SS##">Zen
+                                <a class="off-canvas-category-link--sub" href="htpps://fipress.org/">Zen
                                     Cart</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="##SS##">Miscellaneous</a>
+                                    href="htpps://fipress.org/">Miscellaneous</a>
                             </li>
                         </ul>
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown"
-                            data-dropdown-target="#off-canvas-ui-templates" href="##SS##">
+                            data-dropdown-target="#off-canvas-ui-templates" href="htpps://fipress.org/">
                             UI Templates
                         </a>
                         <ul class="is-hidden" id="off-canvas-ui-templates">
                             <li>
-                                <a class="off-canvas-category-link--sub" href="##SS##">Popular
+                                <a class="off-canvas-category-link--sub" href="htpps://fipress.org/">Popular
                                     Items</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="##SS##">Figma</a>
+                                    href="htpps://fipress.org/">Figma</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="##SS##">Adobe
+                                <a class="off-canvas-category-link--sub" href="htpps://fipress.org/">Adobe
                                     XD</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="##SS##">Photoshop</a>
+                                    href="htpps://fipress.org/">Photoshop</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="##SS##">Sketch</a>
+                                    href="htpps://fipress.org/">Sketch</a>
                             </li>
                         </ul>
 
                     </li>
                     <li>
 
-                        <a class="off-canvas-category-link--empty" href="##SS##">
+                        <a class="off-canvas-category-link--empty" href="htpps://fipress.org/">
                             Plugins
                         </a>
                     </li>
                     <li>
                         <a class="off-canvas-category-link" data-view="dropdown" data-dropdown-target="#off-canvas-more"
-                            href="##SS##">
+                            href="htpps://fipress.org/">
                             More
                         </a>
                         <ul class="is-hidden" id="off-canvas-more">
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="##SS##">Blogging</a>
+                                    href="htpps://fipress.org/">Blogging</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="##SS##">Courses</a>
+                                    href="htpps://fipress.org/">Courses</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="##SS##">Facebook Templates</a>
+                                    href="htpps://fipress.org/">Facebook Templates</a>
                             </li>
-                            <li><a class="off-canvas-category-link--sub" href="##SS##">Free
+                            <li><a class="off-canvas-category-link--sub" href="htpps://fipress.org/">Free
                                     Elementor Templates</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="##SS##">Free
+                                <a class="off-canvas-category-link--sub" href="htpps://fipress.org/">Free
                                     WordPress Themes</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="##SS##">Forums</a>
+                                    href="htpps://fipress.org/">Forums</a>
                             </li>
                             <li>
-                                <a class="off-canvas-category-link--sub" href="##SS##">Ghost
+                                <a class="off-canvas-category-link--sub" href="htpps://fipress.org/">Ghost
                                     Themes</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub"
-                                    href="##SS##">Tumblr</a>
+                                    href="htpps://fipress.org/">Tumblr</a>
                             </li>
                             <li>
                                 <a class="off-canvas-category-link--sub external-link elements-nav__category-link"
                                     target="_blank"
                                     data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
                                     data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;sub nav&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionName&quot;:&quot;Unlimited Creative Assets&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
-                                    href="##SS##">Unlimited
+                                    href="htpps://fipress.org/">Unlimited
                                     Creative Assets</a>
                             </li>
                         </ul>
@@ -1857,7 +1857,7 @@
                         <a class="elements-nav__category-link external-link" target="_blank"
                             data-analytics-view-payload="{&quot;eventName&quot;:&quot;view_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
                             data-analytics-click-payload="{&quot;eventName&quot;:&quot;select_promotion&quot;,&quot;contextDetail&quot;:&quot;site switcher&quot;,&quot;ecommerce&quot;:{&quot;promotionId&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionName&quot;:&quot;switcher_mobile_31JUL2024&quot;,&quot;promotionType&quot;:&quot;elements referral&quot;}}"
-                            href="##SS##">Unlimited
+                            href="htpps://fipress.org/">Unlimited
                             Downloads</a>
                     </li>
 
@@ -1869,7 +1869,7 @@
 
         <div class="page__off-canvas--right overflow" bis_skin_checked="1">
             <div class="off-canvas-right" bis_skin_checked="1">
-                <a class="off-canvas-right__link--cart" href="##SS##">
+                <a class="off-canvas-right__link--cart" href="htpps://fipress.org/">
                     Guest Cart
                     <div class="shopping-cart-summary is-empty" data-view="cartCount" bis_skin_checked="1">
                         <span class="js-cart-summary-count shopping-cart-summary__count">0</span>
@@ -1894,7 +1894,7 @@
             <div class="site-header__mini is-hidden-desktop" bis_skin_checked="1">
                 <div class="header-mini" bis_skin_checked="1">
                     <div class="header-mini__button--cart" bis_skin_checked="1">
-                        <a class="btn btn--square" href="##SS##">
+                        <a class="btn btn--square" href="htpps://fipress.org/">
                             <svg width="14px" height="14px" viewBox="0 0 14 14" class="header-mini__button-cart-icon"
                                 xmlns="http://www.w3.org/2000/svg" aria-labelledby="title" role="img">
                                 <title>Cart</title>
@@ -1913,7 +1913,7 @@
                     </div>
                     <div class="header-mini__button--account" bis_skin_checked="1">
                         <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="right"
-                            href="##SS##">
+                            href="htpps://fipress.org/">
                             <i class="e-icon -icon-person"></i>
                             <span class="is-hidden">Account</span>
                         </a>
@@ -1921,14 +1921,14 @@
 
                     <div class="header-mini__button--categories" bis_skin_checked="1">
                         <a class="btn btn--square" data-view="offCanvasNavToggle" data-off-canvas="left"
-                            href="##SS##">
+                            href="htpps://fipress.org/">
                             <i class="e-icon -icon-hamburger"></i>
                             <span class="is-hidden">Sites, Search &amp; Categories</span>
                         </a>
                     </div>
 
                     <div class="header-mini__logo" bis_skin_checked="1">
-                        <a href="##SS##">
+                        <a href="htpps://fipress.org/">
                             <img alt="Logo Baru"
                                 src="https://i.postimg.cc/1t1spGNs/Sq-Pt4TYy6QGz-Xv-R3.webp"
                                 style="height:40px; width:auto; display:inline-block;">
@@ -1945,21 +1945,21 @@
 
                 <div class="grid-container -layout-wide" bis_skin_checked="1">
                     <div class="global-header__wrapper" bis_skin_checked="1">
-                        <a href="##SS##">
+                        <a href="htpps://fipress.org/">
                             <img height="50" alt="Envato Market" class="global-header__logo"
                                 src="https://i.postimg.cc/1t1spGNs/Sq-Pt4TYy6QGz-Xv-R3.webp">
                         </a>
                         <nav class="global-header-menu" role="navigation">
                             <ul class="global-header-menu__list">
                                 <li class="global-header-menu__list-item">
-                                    <a class="global-header-menu__link" href="##SS##">
+                                    <a class="global-header-menu__link" href="htpps://fipress.org/">
                                         <span class="global-header-menu__link-text">
                                             LANDAKTOTO
                                         </span>
                                     </a>
                                 </li>
                                 <li class="global-header-menu__list-item">
-                                    <a class="global-header-menu__link" href="##SS##">
+                                    <a class="global-header-menu__link" href="htpps://fipress.org/">
                                         <span class="global-header-menu__link-text">
                                             SITUS TOTO
                                         </span>
@@ -1988,7 +1988,7 @@
                                 </li>
                                 <li class="global-header-menu__list-item -background-light -border-radius"><a
                                         id="spec-link-cart" class="global-header-menu__link h-pr1"
-                                        href="##SS##">
+                                        href="htpps://fipress.org/">
 
                                         <svg width="16px" height="16px" viewBox="0 0 16 16"
                                             class="global-header-menu__icon global-header-menu__icon-cart"
@@ -2206,15 +2206,15 @@
             <div class="grid-container " bis_skin_checked="1">
                 <nav class="breadcrumbs h-text-truncate  ">
 
-                    <a class="js-breadcrumb-category" href="##SS##">LANDAKTOTO</a>
+                    <a class="js-breadcrumb-category" href="htpps://fipress.org/">LANDAKTOTO</a>
 
-                    <a href="##SS##" class="js-breadcrumb-category">LANDAKTOTO</a>
+                    <a href="htpps://fipress.org/" class="js-breadcrumb-category">LANDAKTOTO</a>
 
-                    <a class="js-breadcrumb-category" href="##SS##">TOGEL ONLINE</a>
+                    <a class="js-breadcrumb-category" href="htpps://fipress.org/">TOGEL ONLINE</a>
 
-                    <a class="js-breadcrumb-category" href="##SS##">SITUS TOGEL</a>
+                    <a class="js-breadcrumb-category" href="htpps://fipress.org/">SITUS TOGEL</a>
 
-                    <a class="js-breadcrumb-category" href="##SS##">SITUS TOTO</a>
+                    <a class="js-breadcrumb-category" href="htpps://fipress.org/">SITUS TOTO</a>
                 </nav>
 
                 <div class="item-header" data-view="itemHeader" bis_skin_checked="1">
@@ -2245,7 +2245,7 @@
                     <div class="item-header__details-section" bis_skin_checked="1">
                         <div class="item-header__author-details" bis_skin_checked="1">
                             By <a rel="author" class="js-by-author"
-                                href="##SS##">LANDAKTOTO</a>
+                                href="htpps://fipress.org/">LANDAKTOTO</a>
                         </div>
                         <div class="item-header__sales-count" bis_skin_checked="1">
                             <svg width="16px" height="16px" viewBox="0 0 16 16" class="item-header__sales-count-icon"
@@ -2283,7 +2283,7 @@
                 <div class="is-hidden-tablet-and-below page-tabs" bis_skin_checked="1">
                     <ul>
                         <li class="selected"><a class="js-item-navigation-item-detailst-link -decoration-none"
-                                href="##SS##">Item Details</a>
+                                href="htpps://fipress.org/">Item Details</a>
                         </li>
                         <li><a class="js-item-navigation-reviews t-link -decoration-none"
                                 href=""><span>Reviews</span><span>
@@ -2560,14 +2560,14 @@
                             <li class="item-bookmarking__control_icons--favorite">
                                 <span>
                                     <a title="Add to Favorites" data-view="modalAjax"
-                                        href="##SS##"><span
+                                        href="htpps://fipress.org/"><span
                                             class="item-bookmarking__control--label">Add to
                                             Favorites</span></a></span>
 
                             </li>
                             <li class="item-bookmarking__control_icons--collection">
                                 <span><a title="Add to Collection" data-view="modalAjax"
-                                        href="##SS##">
+                                        href="htpps://fipress.org/">
                                         <span class="item-bookmarking__control--label">Add to
                                             Collection</span></a>
                                 </span>
@@ -2686,7 +2686,7 @@
                         <div class="js-item-togglable-content has-toggle" bis_skin_checked="1">
 
                             <div class="js-item-description-toggle item-description-toggle" bis_skin_checked="1">
-                                <a class="item-description-toggle__link" href="##SS##">
+                                <a class="item-description-toggle__link" href="htpps://fipress.org/">
                                     <span>Show More <i class="e-icon -icon-chevron-down"></i></span>
                                     <span class="item-description-toggle__less">Show Less <i
                                             class="e-icon -icon-chevron-down -rotate-180"></i></span>
@@ -2730,7 +2730,7 @@
                             <div id="purchase-form" class="purchase-form" bis_skin_checked="1">
                                 <form data-view="purchaseForm" data-analytics-has-custom-click="true"
                                     data-analytics-click-payload="{&quot;eventName&quot;:&quot;add_to_cart&quot;,&quot;eventType&quot;:&quot;user&quot;,&quot;quantityUpdate&quot;:false,&quot;ecommerce&quot;:{&quot;currency&quot;:&quot;USD&quot;,&quot;value&quot;:37.0,&quot;items&quot;:[{&quot;affiliation&quot;:&quot;themeforest&quot;,&quot;item_id&quot;:8988002,&quot;item_name&quot;:&quot;LANDAKTOTO ✈️ Platform Andalan Togel Online & Situs Toto 4D Terlengkap 2026&quot;,&quot;item_brand&quot;:&quot;landaktoto&quot;,&quot;item_category&quot;:&quot;wordpress&quot;,&quot;item_category2&quot;:&quot;ecommerce&quot;,&quot;item_category3&quot;:&quot;woocommerce&quot;,&quot;price&quot;:&quot;37&quot;,&quot;quantity&quot;:1}]}}"
-                                    action="##SS##" accept-charset="UTF-8" method="post">
+                                    action="htpps://fipress.org/" accept-charset="UTF-8" method="post">
                                     <input type="hidden" name="authenticity_token"
                                         value="o7V7LGbBjnF9HgzqsCOek0VUbYNaqFcrL72zjeu3cGTv2_7pn5UklFm7XFtDaDCfkbbeD4zdIzwPzjrUhXtbHQ"
                                         autocomplete="off">
@@ -2778,7 +2778,7 @@
                                                                 <p class="t-body -size-m h-m0">
                                                                     <a class="t-link -decoration-reversed"
                                                                         target="_blank"
-                                                                        href="##SS##licenses/standard">View
+                                                                        href="htpps://fipress.org/licenses/standard">View
                                                                         license details</a>
                                                                 </p>
                                                             </div>
@@ -2903,7 +2903,7 @@
                             </div>
                             <div class="info-row-LANDAKTOTO">
                                 <span class="info-label-LANDAKTOTO">Min Withdraw</span>
-                                <span class="info-value-LANDAKTOTO">Rp 50.000</span>
+                                <span class="info-value-LANDAKTOTO">Rp 25.000</span>
                             </div>
                             <div class="info-row-LANDAKTOTO">
                                 <span class="info-label-LANDAKTOTO">Metode Transaksi</span>
@@ -3059,18 +3059,18 @@
                 <h1 class="cok-faq-title2" style="text-align: center;color: #ffd900;">LANDAKTOTO ✈️ Platform Andalan Togel Online & Situs Toto 4D Terlengkap 2026</h1>
             </div>
             <p>
-                <a href="##SS##" style="color: #ffd700; font-weight: bold;">LANDAKTOTO</a>
+                <a href="htpps://fipress.org/" style="color: #ffd700; font-weight: bold;">LANDAKTOTO</a>
                 LANDAKTOTO hadir sebagai salah satu identitas
                 <strong style="color: #ffd700;">platform digital </strong> yang mengangkat konsep togel online dan situs Toto 4D dengan pendekatan modern, informatif, serta mengikuti perkembangan teknologi tahun 2026. Di tengah meningkatnya kebutuhan masyarakat terhadap akses informasi yang cepat dan praktis,
             </p>
 
             <p>
-                LANDAKTOTO mengusung <a href="##SS##"
+                LANDAKTOTO mengusung <a href="htpps://fipress.org/"
                     style="color: #ffd700; font-weight: bold;">konsep layanan</a> berbasis digital dengan navigasi sederhana, tampilan profesional, dan penyajian informasi yang lebih terstruktur.
             </p>
 
             <p>
-                <a href="##SS##"
+                <a href="htpps://fipress.org/"
                     style="color: #ffd700; font-weight: bold;">LANDAKTOTO</a> berupaya membangun karakter brand yang kuat, mudah dikenali, serta relevan dengan perkembangan dunia hiburan angka digital. Nama LANDAKTOTO menjadi bagian penting dari strategi branding yang mengutamakan konsistensi identitas, kemudahan pencarian informasi, dan pengalaman pengunjung dalam menjelajahi konten yang tersedia.
             </p>
 
